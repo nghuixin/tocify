@@ -3,6 +3,19 @@
 
 # Interests seed
 
+## Scoring block
+Scoring calibration:
+Score ≥ 0.80 ONLY if the item clearly involves electrophysiology or physiological time series
+  (EEG/MEG/LFP/iEEG/ECoG/neuronal spiking) OR aperiodic/1/f, oscillations, waveform shape,
+  spectral parameterization, or neuronal timescales — OR introduces a general time-series/signal
+  processing method that would transfer to those data.
+
+If it is primarily about drugs/behavior/psychiatric symptoms without neural/physio time-series analysis,
+  cap score at 0.40.
+
+If it is primarily microbiology/immunology/metabolism/genetics without neural dynamics methods,
+  cap score at 0.25.
+
 ## Keywords
 EEG
 MEG
