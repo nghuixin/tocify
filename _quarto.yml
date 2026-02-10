@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "tocify digest"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Digest
+
+format:
+  html:
+    toc: true
