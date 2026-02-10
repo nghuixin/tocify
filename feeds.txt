@@ -11,10 +11,6 @@ bioRxiv | http://connect.biorxiv.org/biorxiv_xml.php?subject=neuroscience
 Nature Neuroscience | https://www.nature.com/neuro.rss
 Nature Human Behav | https://www.nature.com/nathumbehav.rss
 Nature Aging | https://www.nature.com/nataging.rss
-Neuron | https://www.cell.com/neuron/rss
-J Neurosci | https://www.jneurosci.org/rss/current.xml
-Neuron | http://www.cell.com/neuron/inpress.rss
-Cerebral Cortex | http://cercor.oxfordjournals.org/rss/current.xml
 J Cogn Neurosci | https://ieeexplore.ieee.org/rss/TOC6720218.XML
 NeuroImage | http://www.journals.elsevier.com/neuroimage/rss
 
@@ -51,12 +47,11 @@ Nature Methods | http://www.nature.com/nmeth/current_issue/rss
 Nature Protocols | http://www.nature.com/nprot/current_issue/rss/index.html
 Scientific Data | https://www.nature.com/sdata.rss
 
-# review journals
+# revw joieurnals
 Trends Cogn Sci | http://www.cell.com/trends/cognitive-sciences/inpress.rss
 Trends Neurosci | https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=stm
 Behav Brain Sci | http://cambridge.org/core/rss/product/id/33B3051C485F2A27AC91F4A9BA87E6A6
-Nature Rev Neurosci | https://www.nature.com/nrn.rss
-Nature Rev Psychol | https://www.nature.com/nrpsychol.rss
-Nature Rev Neurol | https://www.nature.com/nrneurol.rss
-Nature Rev Biotech | https://www.nature.com/natrevbioeng.rss
-Nature Rev Cardiol | https://www.nature.com/nrcardio.rss
+
+
+
+Journal of Affective Disorders | https://www.sciencedirect.com/journal/journal-of-affective-disorders
