@@ -1,0 +1,6 @@
+---
+title: "Weekly Digest"
+---
+
+<!-- pulls in the generated markdown -->
+{{< include digest.md >}}
