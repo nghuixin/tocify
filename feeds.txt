@@ -60,4 +60,5 @@ Nature Rev Neurosci | https://www.nature.com/nrn.rss
 Nature Rev Psychol | https://www.nature.com/nrpsychol.rss
 Nature Rev Neurol | https://www.nature.com/nrneurol.rss
 Nature Rev Biotech | https://www.nature.com/natrevbioeng.rss
-Nature Rev Cardiol | https://www.nature.com/nrcardio.rssJournal of Affective Disorders | https://www.sciencedirect.com/journal/journal-of-affective-disorders
+Nature Rev Cardiol | https://www.nature.com/nrcardio.rss
+Journal of Affective Disorders | https://www.sciencedirect.com/journal/journal-of-affective-disorders
