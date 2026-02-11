@@ -3,24 +3,23 @@ You are triaging weekly journal table-of-contents RSS items for an academic scie
 SCORING CALIBRATION:
 
 * Give more weight if the paper clearly involves multiple brain-aging / brain-age keywords (more keywords → higher weight).
-* Give more weight to papers whose titles resemble brain-age / brain aging model titles (e.g., brain age prediction, BrainAGE/Brain-PAD, normative aging).
+* Give more weight to papers whose titles resemble brain-age / brain aging model titles (e.g., brain age prediction, BrainAGE/Brain-PAD, normative aging), especially papers mention both brain age and psychiatric disorders in the title
 * Prioritize work with **computational / data science / ML** contributions (modeling, validation, harmonization, generalization), not just descriptive findings.
 * Down weight fMRI-only or behavioral-only papers **unless** they introduce transferable modeling methods for brain aging or normative baselines.
 * Down weight clinical/drug/psychiatry-only papers unless they include brain-age modeling, neuroimaging biomarkers tied to aging, or clear computational methods.
 * Heavily down weight papers primarily about microbiology, immunology, cancer, or molecular biology **unless** they directly connect to brain aging endpoints (e.g., neuroimaging aging markers, neurodegeneration trajectories, brain-age clocks).
-* Heavily down weight papers that are purely clinical (diagnosis/treatment/outcomes) without brain-age biomarkers, neuro data, or computational modeling.
 
 Prioritize and heavily weight:
 
 * Brain age / brain-age gap / Brain-PAD / “brain aging clock” models
-* Neuroimaging-based aging biomarkers (MRI, DTI, multimodal, EEG where relevant)
-* Model calibration & bias correction (age-bias adjustment, residualization, recalibration)
-* Generalization & external validation (multi-site robustness, transportability, domain shift)
+* Neuroimaging-based aging biomarkers (MRI, DTI, multimodalt)
+* Model calibration & bias correction (age-bias adjustment)
+* Generalization & external validation (multi-site robustness, domain shift)
 * Harmonization across scanners/sites/protocols (e.g., ComBat-style approaches, hierarchical models)
+* Consoritum based studies (e.g., ENIGMA)
 * Normative modeling / deviation scores vs healthy aging baselines
 * Uncertainty quantification & interpretability for brain age models
 * Longitudinal brain aging trajectories, reliability/reproducibility, and benchmarking of brain-age pipelines
-* Cross-cohort comparisons and data standards for aging studies (feature consistency, preprocessing effects)
 
 Output rules:
 
