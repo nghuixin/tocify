@@ -1,41 +1,24 @@
 # Weekly ToC Digest (week of 2026-02-11)
 
-No papers directly related to the specified interests in brain aging, predicting brain age, or neuroimaging biomarkers for aging. Focus shifted towards computational models and neuroscience trends. Focus on brain aging models and computational contributions in neuroimaging. Prioritize research involving data science, modeling, and validation relevant to brain aging. No entries explicitly tied to brain-age or neuroimaging methods. Emphasized modeling innovations and relevance to brain aging where possible. All selected papers include relevant computational or modeling contributions related to neuroimaging, brain age modeling, or related data science methods relevant to brain aging.
+Focusing on papers involving brain aging models, neuroimaging markers, and computational contributions. No items directly relevant to brain-aging or brain-age modeling found in this week's articles. This week's scan revealed no highly relevant articles that fully address multiple criteria related to brain age modeling, computational approaches, or neuroimaging-based aging biomarkers. Analyzed based on relevance to brain-aging, neuroimaging, and computational modeling. The top results have strong relevance to brain age modeling or computational methods in neuroscience.
 
-**Included:** 8 (score ≥ 0.35)  
+**Included:** 6 (score ≥ 0.35)  
 **Scored:** 9 total items
 
 ---
 
-## [Cortical traveling waves in time and space: Physics, physiology, and psychology](https://www.cell.com/neuron/fulltext/S0896-6273(25)00975-4?rss=yes)
-*Neuron*  
-Score: **0.75**  
-Published: 2026-02-09T00:00:00+00:00
-Tags: modeling, brain dynamics, neuroimaging
+## [Distributed fMRI Patterns Coupled to Low-Frequency Cardiorespiratory Dynamics Provide Markers of Aging](http://www.jneurosci.org/cgi/content/short/46/6/e1231252026?rss=1)
+*J Neurosci*  
+Score: **0.90**  
+Published: 2026-02-11T17:30:25+00:00
+Tags: MRI, aging biomarkers, neuroimaging
 
-Explores modeling of cortical activity and dynamics which could be applied to brain aging models, particularly with the physics of brain waves.
-
-<details>
-<summary>RSS summary</summary>
-
-Cruddas et al. reviewed how core concepts from wave physics relate to cortical wave physiology and psychology. They examined how cortical waves emerge, how they facilitate coordinated, hierarchical, and counterstream dynamics, and how they encode perceptual and behavioral signals.
-
-</details>
-
----
-
-## [MAMBAxBrain: A Multi-task Neural Framework Linking Brain Functional Dynamics to Individual Fingerprints, Cognitive and Disease States](https://www.biorxiv.org/content/10.64898/2026.02.08.704658v1?rss=1)
-*bioRxiv*  
-Score: **0.70**  
-Published: 2026-02-10T00:00:00+00:00
-Tags: fMRI, computational, modeling
-
-Presents a multi-task neural framework for modeling fMRI data with potential applications in brain aging studies. Emphasizes computational modeling and functional dynamics.
+This paper investigates whole-brain fMRI patterns linked to cardiorespiratory activity as markers of aging, fitting well with interests in neuroimaging-based aging biomarkers.
 
 <details>
 <summary>RSS summary</summary>
 
-Functional magnetic resonance imaging (fMRI) contains rich individual, cognitive, and pathological information, yet no universal model exists for multi-task modeling of these dimensions. Here, we introduce MAMBAxBrain, a multi-task neural framework that integrates Mamba architecture with functional connectivity analysis to jointly model the temporal dynamics and spatial coordination of neural activity. MAMBAxBrain achieves high accuracy across four distinct fMRI objectives - brain fingerprinting…
+<p>How aging affects brain&ndash;body connections can be investigated through changes in the coupling between functional magnetic resonance imaging (fMRI) signals and bodily autonomic processes across the adult lifespan. Recent studies using univariate approaches have identified age-related changes in the association between fMRI signals from multiple individual brain regions and low-frequency respiratory and cardiac activity. Here, we investigate if whole-brain spatial fMRI patterns associated …
 
 </details>
 
@@ -43,11 +26,11 @@ Functional magnetic resonance imaging (fMRI) contains rich individual, cognitive
 
 ## [Cognitive rejuvenation through partial reprogramming of engram cells](https://www.cell.com/neuron/fulltext/S0896-6273(25)00925-0?rss=yes)
 *Neuron*  
-Score: **0.70**  
+Score: **0.90**  
 Published: 2026-02-10T00:00:00+00:00
-Tags: brain age, neurobiology
+Tags: brain aging, rejuvenation, neuroplasticity
 
-This paper involves partial reprogramming techniques that counteract aging in neuronal cells, which may relate to the mechanistic underpinnings of brain aging, although it lacks specific computational methods.
+The paper focuses on rejuvenating brain functions through molecular and cellular methods, linking directly to brain aging. Innovative computational methods may be implied in linking molecular changes to observed cognitive improvements.
 
 <details>
 <summary>RSS summary</summary>
@@ -58,52 +41,18 @@ Berdugo-Vega et al. combine partial reprogramming and engram technologies to ach
 
 ---
 
-## [Derivation and validation of a machine learning-driven score to predict the diagnostic yield of endomyocardial biopsy](https://www.nature.com/articles/s41746-026-02421-y)
-*npj Digital Med*  
-Score: **0.70**  
-Published: 2026-02-09T00:00:00+00:00
-Tags: machine learning, modeling, validation
-
-Includes machine learning-based score derivation and validation, indicating relevance for computational modeling in neuroimaging or similar domains.
-
-<details>
-<summary>RSS summary</summary>
-
-<p>npj Digital Medicine, Published online: 09 February 2026; <a href="https://www.nature.com/articles/s41746-026-02421-y">doi:10.1038/s41746-026-02421-y</a></p>Derivation and validation of a machine learning-driven score to predict the diagnostic yield of endomyocardial biopsy
-
-</details>
-
----
-
-## [AI System Using Unsupervised Learning to Discover Novel Subtypes in Alzheimer's Disease](https://www.biorxiv.org/content/10.64898/2026.02.08.704669v1?rss=1)
+## [In vivo aberration measurement and correction for ultrafast FACED two-photon fluorescence microscopy of the brain](https://www.biorxiv.org/content/10.64898/2026.02.06.704504v1?rss=1)
 *bioRxiv*  
-Score: **0.65**  
+Score: **0.70**  
 Published: 2026-02-10T00:00:00+00:00
-Tags: machine learning, Alzheimer's, MRI
+Tags: MRI, neuroimaging, computational imaging
 
-Utilizes machine learning to identify Alzheimer's subtypes, relevant to brain aging and neuroimaging. Highlights computational methods.
-
-<details>
-<summary>RSS summary</summary>
-
-Early Alzheimer's disease often evades timely detection because typical diagnostics are based on symptomatic thinking rather than intrinsic neurodegeneration. Here, we use unsupervised machine learning to identify latent Alzheimer's phenotypes from structural MRI-derived volumetric features and neuropsychological scores, without using diagnosis labels or predefined subtype definitions. We analyzed participants (18-96 years) from the OASIS-1 study using intracranial, normalized, global, and regio…
-
-</details>
-
----
-
-## [Toward integrated sleep health: multimodal AI in Hang Hao Meng agent](https://www.nature.com/articles/s41746-026-02432-9)
-*npj Digital Med*  
-Score: **0.65**  
-Published: 2026-02-09T00:00:00+00:00
-Tags: multimodal, AI, integration
-
-Multimodal AI approach relevant for integrating various neuroimaging data and potentially applicable to brain aging studies.
+Focus on advanced imaging techniques could aid in high-resolution neuroimaging, potentially benefiting brain age modeling through improved data acquisition.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>npj Digital Medicine, Published online: 09 February 2026; <a href="https://www.nature.com/articles/s41746-026-02432-9">doi:10.1038/s41746-026-02432-9</a></p>Toward integrated sleep health: multimodal AI in Hang Hao Meng agent
+Ultrafast two-photon fluorescence microscopy (2PFM) based on free-space angular-chirp-enhanced delay (FACED) enables megahertz line scanning and kilohertz frame rates for in vivo brain imaging. However, optical aberrations from the imaging system and brain tissue degrade spatial resolution, signal, and contrast at depth. Here we integrate adaptive optics (AO) with FACED 2PFM to achieve synapse-resolving ultrafast imaging in the living mouse brain. Because FACED generates a one-dimensional array …
 
 </details>
 
@@ -111,11 +60,11 @@ Multimodal AI approach relevant for integrating various neuroimaging data and po
 
 ## [High spatial resolution 23Na-MRI for ischemic brain injury detection](https://www.biorxiv.org/content/10.64898/2026.02.05.703829v1?rss=1)
 *bioRxiv*  
-Score: **0.55**  
+Score: **0.60**  
 Published: 2026-02-10T00:00:00+00:00
-Tags: MRI, multimodal, neuroimaging
+Tags: MRI, neuroimaging, biomarkers
 
-Focuses on advanced MRI techniques; could have implications for neuroimaging biomarkers relevant to aging processes.
+While more focused on injury, the development of high-resolution imaging techniques like 23Na-MRI could contribute to neuroimaging biomarkers in aging research.
 
 <details>
 <summary>RSS summary</summary>
@@ -126,18 +75,35 @@ High spatial resolution sodium (23Na) imaging of brain lesions remains challengi
 
 ---
 
-## [NeuroVLM: A generative vision-language framework for human neuroimaging](https://www.biorxiv.org/content/10.64898/2026.02.06.704508v1?rss=1)
-*bioRxiv*  
-Score: **0.40**  
-Published: 2026-02-09T00:00:00+00:00
-Tags: neuroimaging, modeling, VLM
+## [Aberrant Medial Prefrontal Cortex Activity and Flexible Behavior in the TgF344-AD Rat Model of Alzheimers Disease](http://www.jneurosci.org/cgi/content/short/46/6/e1387252026?rss=1)
+*J Neurosci*  
+Score: **0.50**  
+Published: 2026-02-11T17:30:25+00:00
+Tags: Alzheimer's, aging, neuroimaging
 
-Presents NeuroVLM, a model architecture supporting learning from neuroimage-text pairs, relevant for cognitive neuroimaging studies.
+While primarily focused on Alzheimer's, it uses an age-dependent rat model which might relate to brain aging trajectories, though it's less centered on neuroimaging or modeling methodologies.
 
 <details>
 <summary>RSS summary</summary>
 
-Neuroimaging research has produced tens-of-thousands of articles that pair natural language and activation coordinate tables. Recent advances in vision-language models (VLMs) have provided methods to model text and images simultaneously. In this work, we present NeuroVLM, a model architecture for learning from 30,000 human neuroimage-text pairs. The architecture supports contrastive and generative objectives. The contrastive model ranks similarity between neuroimages and text. The generative mod…
+<p>Executive dysfunction can precede the accumulation of canonical neuropathological markers and severe dementia in Alzheimer&rsquo;s disease (AD) patients often characterized by memory changes. Deficits in executive function including flexible behavior, i.e., the ability to shift behavior following negative consequences, are often mediated by the prefrontal cortex. However, it is unknown how medial prefrontal cortex activity is altered in behaving Tg-F344-AD rats, which exhibit age-dependent AD…
+
+</details>
+
+---
+
+## [AI System Using Unsupervised Learning to Discover Novel Subtypes in Alzheimer's Disease](https://www.biorxiv.org/content/10.64898/2026.02.08.704669v1?rss=1)
+*bioRxiv*  
+Score: **0.40**  
+Published: 2026-02-10T00:00:00+00:00
+Tags: MRI, machine learning
+
+The paper utilizes unsupervised machine learning with structural MRI data, a method relevant for computational insights into brain aging, though it focuses more on Alzheimer's phenotypes without explicit mention of brain-age models.
+
+<details>
+<summary>RSS summary</summary>
+
+Early Alzheimer's disease often evades timely detection because typical diagnostics are based on symptomatic thinking rather than intrinsic neurodegeneration. Here, we use unsupervised machine learning to identify latent Alzheimer's phenotypes from structural MRI-derived volumetric features and neuropsychological scores, without using diagnosis labels or predefined subtype definitions. We analyzed participants (18-96 years) from the OASIS-1 study using intracranial, normalized, global, and regio…
 
 </details>
 
