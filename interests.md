@@ -24,4 +24,4 @@ neural computation
 aging and cognition
 
 ## narrative
- 
+I’m primarily interested in computational methods and applied machine learning for brain aging, especially brain age prediction and brain-age gap (Brain-PAD) models using neuroimaging (MRI/DTI/fMRI, multimodal) and, secondarily, EEG-derived aging markers. I am also generally interested in papers that introduce or benchmark robust, generalizable pipelines. This includes calibration/age-bias correction, normative modeling, and uncertainty quantification/interpretability.  
