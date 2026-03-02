@@ -11,16 +11,19 @@ Brain age prediction / “brain age gap” / Brain-PAD (from MRI, fMRI, DTI, mul
 
 Aging clocks for the brain (neuroimaging-based or multimodal clocks) and their calibration/validation (e.g., bias correction, age-bias adjustment)
 
-Core methodological advances that transfer directly to brain-age pipelines, including: feature extraction from neuroimaging, harmonization across scanners/sites, domain adaptation, normative modeling, uncertainty estimation, and external validation / transportability.
+Core methodological advances that transfer directly to brain-age pipelines, including: feature extraction from neuroimaging, harmonization across scanners/sites, domain adaptation, normative modeling, uncertainty estimation, and external validation 
 
-If it is primarily about clinical syndromes or behavior (e.g., depression, bipolar symptoms, cognition, functional outcomes) without a clear brain-aging biomarker or brain-age modeling component, cap score at 0.70.
+If it is primarily about clinical syndromes or behavior (e.g., depression, bipolar symptoms, cognition, functional outcomes) without a clear brain aging biomarker or aging clock orr brain age modeling component, cap score at 0.70.
 
-If it is primarily about molecular aging, immunology, microbiome, metabolism, or genetics without a direct link to brain aging endpoints (e.g., neuroimaging biomarkers, neurodegeneration markers, or explicit brain-age modeling), cap score at 0.25. -->
+If it is primarily about immunology, microbiome, metabolism, or genetics without a direct link to brain aging endpoints (e.g., neurodegeneration markers, or explicit brain age modeling), cap score at 0.45. -->
 
 ## keywords
 aging clocks
 computational neuroscience
-aging and cognition
+aging 
+cognition
+translational psychiatry 
+
 
 ## narrative
-I’m primarily interested in computational methods and applied machine learning for brain aging, especially brain age prediction and brain-age gap (Brain-PAD) models using neuroimaging (MRI/DTI/fMRI, multimodal) and, secondarily, blood based aging markers. I am also generally interested in papers that introduce or benchmark robust, generalizable pipelines. This includes calibration/age-bias correction, normative modeling, and uncertainty quantification/interpretability.  
+I’m primarily interested in computational methods and applied machine learning for brain aging, especially brain age prediction and brain-age gap (Brain-PAD) models using neuroimaging  and, secondarily, blood based aging markers. I am also generally interested in papers that introduce or benchmark robust, generalizable pipelines. This includes calibration/age-bias correction, normative modeling, and uncertainty quantification/interpretability.  
