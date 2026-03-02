@@ -30,6 +30,8 @@ Nature Biotechnology | https://www.nature.com/nbt.rss
 Nature Comput Sci | https://www.nature.com/natcomputsci.rss
 Nature Machine Intell | https://www.nature.com/natmachintell.rss
 
+
+
 # clinical journals
 JAMA | https://jamanetwork.com/rss/site_3/67.xml
 JAMA Network Open | https://jamanetwork.com/rss/site_214/187.xml
@@ -46,6 +48,7 @@ Nature Mental Health | https://www.nature.com/natmentalhealth.rss
 npj Digital Health | https://www.nature.com/npjdigipubhealth.rss
 npj Digital Med | https://www.nature.com/npjdigitalmed.rss
 Trans Psychiatry | https://www.nature.com/tp.rss
+Journal of Affective Disorders Reports| https://www.sciencedirect.com/journal/journal-of-affective-disorders-reports
 
 # methods and data journals
 Nature Methods | http://www.nature.com/nmeth/current_issue/rss
@@ -60,4 +63,3 @@ Nature Rev Neurosci | https://www.nature.com/nrn.rss
 Nature Rev Psychol | https://www.nature.com/nrpsychol.rss
 Nature Rev Neurol | https://www.nature.com/nrneurol.rss
 Nature Rev Biotech | https://www.nature.com/natrevbioeng.rss
-Nature Rev Cardiol | https://www.nature.com/nrcardio.rss
