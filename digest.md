@@ -1,109 +1,95 @@
-# Weekly ToC Digest (week of 2026-03-30)
+# Weekly ToC Digest (week of 2026-04-06)
 
-The week's focus includes advancements in clinical trials, novel computational methods, and insights into brain disorders, but doesn't heavily feature brain-aging models or related computational neuroscience. No high-priority items were found based on user interests. The list focuses on recent advances in brain aging, emphasizing computational methods, neuroimaging biomarkers, and models of brain age. This week's triage focused on maximizing relevance to brain aging, modeling, and computational methods. No articles directly overlap with brain age modeling. A few neuroimaging and computational papers relevant to general brain-related themes are noted but did not score highly due to lack of specific focus on brain aging or computational methodologies in brain aging contexts.
+No directly relevant papers on brain aging models or brain age prediction found in this week's RSS feed. Ensure future notifications are aligned with computational advances in brain aging models. Prioritize papers with brain-aging models or those using computational methods in neuroimaging linked to aging. Focus on papers with significant relevance to brain aging, computational modeling, or neuroimaging biomarkers related to aging. Non-relevant studies are deprioritized based on user's interests. No relevant papers for brain aging models or related computational methods were found this week.
 
 **Included:** 6 (score ≥ 0.35)  
-**Scored:** 11 total items
+**Scored:** 8 total items
 
 ---
 
-## [A unified deep learning framework for cross-platform harmonization of multi-tracer PET quantification in neurodegenerative disease](https://www.nature.com/articles/s41746-026-02570-0)
-*npj Digital Med*  
+## [Brain anatomy and molecular signaling predict neurophysiological dynamics across the lifespan](https://www.biorxiv.org/content/10.64898/2026.04.03.715930v1?rss=1)
+*bioRxiv*  
 Score: **0.90**  
-Published: 2026-03-30T00:00:00+00:00
-Tags: harmonization, neuroimaging, computational
+Published: 2026-04-04T00:00:00+00:00
+Tags: MRI, brain age, neuroimaging
 
-Focuses on cross-platform harmonization using deep learning, relevant for brain aging studies involving multi-tracer neuroimaging.
+This study combines neuroimaging data with molecular signaling to understand brain dynamics across aging, closely aligning with brain-age modeling interests.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>npj Digital Medicine, Published online: 30 March 2026; <a href="https://www.nature.com/articles/s41746-026-02570-0">doi:10.1038/s41746-026-02570-0</a></p>A unified deep learning framework for cross-platform harmonization of multi-tracer PET quantification in neurodegenerative disease
+Neural activity emerges from interactions between local cellular architecture, neuromodulatory systems, and large-scale cortical networks. Yet it remains unclear how this multiscale biological context constrains electrophysiological dynamics in humans and how this changes across the lifespan. We combined resting-state magnetoencephalography (MEG) from 350 adults (18-88 years) with cortical maps reflecting cytoarchitecture, myelination, metabolism, gene expression, and neurotransmitter receptors …
 
 </details>
 
 ---
 
-## [System identification and surrogate data analyses imply approximate Gaussianity and non-stationarity of resting-brain dynamics](https://www.biorxiv.org/content/10.64898/2026.03.25.714361v1?rss=1)
-*bioRxiv*  
+## [The exposome of brain aging across 34 countries](https://www.nature.com/articles/s41591-026-04302-z)
+*Nature Medicine*  
+Score: **0.90**  
+Published: 2026-04-03T00:00:00+00:00
+Tags: brain aging, functional, structural, generalization
+
+Discusses brain aging with an exposome approach impacting functional and structural aging. Relevant for understanding environmental factors in brain aging.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Medicine, Published online: 03 April 2026; <a href="https://www.nature.com/articles/s41591-026-04302-z">doi:10.1038/s41591-026-04302-z</a></p>Exposome analyses across 34 countries showed that social exposures were associated with faster functional brain aging and physical exposures with faster structural brain aging.
+
+</details>
+
+---
+
+## [Universal restoration of medical images](https://www.nature.com/articles/s43588-026-00975-1)
+*Nature Comput Sci*  
+Score: **0.80**  
+Published: 2026-04-03T00:00:00+00:00
+Tags: MRI, harmonization, computational
+
+Introduces a foundation model for medical imaging restoration that may benefit cross-site harmonization relevant to brain aging studies.
+
+---
+
+## [Neuronal APOE4-induced early hippocampal network hyperexcitability in Alzheimer’s disease pathogenesis](https://www.nature.com/articles/s43587-026-01096-0)
+*Nature Aging*  
+Score: **0.75**  
+Published: 2026-04-03T00:00:00+00:00
+Tags: neuroimaging, aging biomarkers
+
+Focuses on neurobiological aging mechanisms in Alzheimer's, relevant for incorporating neuroimaging biomarkers in aging models.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Aging, Published online: 03 April 2026; <a href="https://www.nature.com/articles/s43587-026-01096-0">doi:10.1038/s43587-026-01096-0</a></p>Young, cognitively normal APOE4 mice display hippocampal network hyperactivity that predicts later memory decline. This phenotype is driven by neuronal APOE4 expression, which causes hyperexcitability of hippocampal neurons and can be reversed by targeting Nell2.
+
+</details>
+
+---
+
+## [Decipher-MR: a vision-language foundation model for 3D MRI representations](https://www.nature.com/articles/s41746-026-02596-4)
+*npj Digital Med*  
 Score: **0.70**  
-Published: 2026-03-28T00:00:00+00:00
-Tags: MRI, normative, modelling
+Published: 2026-04-04T00:00:00+00:00
+Tags: MRI, computational, multimodal
 
-Focuses on resting-state fMRI and statistical characterizations that may inform normative modeling of brain dynamics.
-
-<details>
-<summary>RSS summary</summary>
-
-Compared with model-based and phenomenological descriptions of the spatiotemporal dynamics of resting-brain activity, statistical characterizations of resting-state fMRI (rs-fMRI) data remain relatively underexplored. Some sophisticated analysis techniques, such as Mapper-based topological data analysis (TDA) and innovation-driven coactivation pattern analysis (iCAP), can distinguish real data from phase-randomized (PR) surrogates, suggesting that rs-fMRI data are not as simple as stationary Gau…
-
-</details>
+Presents a new model for interpreting MRI data, potentially enhancing methods for brain age prediction in neuroimaging.
 
 ---
 
-## [Large-scale CSF and plasma proteomics reveal immune, synaptic, and extracellular matrix disruptions across neurodegenerative diseases](https://www.cell.com/neuron/fulltext/S0896-6273(26)00140-6?rss=yes)
-*Neuron*  
-Score: **0.60**  
-Published: 2026-03-30T00:00:00+00:00
-Tags: biomarkers, neurodegeneration, modeling
-
-Demonstrates modeling of neurodegenerative disease pathways using biomarkers, indirectly relevant to brain aging models.
-
-<details>
-<summary>RSS summary</summary>
-
-Ali et al. analyze over 5,700 cerebrospinal fluid and plasma samples across Alzheimer’s disease, Parkinson’s disease, dementia with Lewy bodies, and frontotemporal dementia. They identify shared immune dysregulation and distinct pathway alterations, including glycosylation and interleukin signaling, and develop predictive models that accurately classify each disorder, highlighting biomarkers and pathways for therapeutic targeting.
-
-</details>
-
----
-
-## [Alzheimer’s disease pathology degrades an NMDA receptor-dependent spontaneous activity pattern in cortico-hippocampal circuits](https://www.cell.com/neuron/fulltext/S0896-6273(26)00132-7?rss=yes)
-*Neuron*  
-Score: **0.50**  
-Published: 2026-03-30T00:00:00+00:00
-Tags: neurodegeneration, brain circuits
-
-Links Alzheimer's disease pathology to circuit dysfunction, providing insight into brain aging mechanisms.
-
-<details>
-<summary>RSS summary</summary>
-
-Ellingford et al. show that soluble Aβ and tau together disrupt structured activity across cortico-hippocampal circuits and impair memory. They reveal reduced synaptic NMDAR (GluN1) localization as a reversible link between pathology and circuit dysfunction and show that simultaneous reduction of both proteins is essential to restore activity and memory.
-
-</details>
-
----
-
-## [Inhibitory-modulatory coupling generates persistent activity during working memory](https://www.biorxiv.org/content/10.64898/2026.03.27.714602v1?rss=1)
-*bioRxiv*  
-Score: **0.50**  
-Published: 2026-03-28T00:00:00+00:00
-Tags: modelling, brain circuitry
-
-Explores memory and brain circuitry, potentially useful for understanding age-related memory function decline.
-
-<details>
-<summary>RSS summary</summary>
-
-Working memory requires the stable maintenance of neural representations across temporal gaps, yet the circuit mechanisms that generate and stabilize persistent activity remain unsolved. Prevailing models emphasize recurrent excitation as the principal substrate of persistence, but how inhibitory and modulatory interactions shape the stability of temporal dynamics is unclear. Here, using trace conditioning in Drosophila, a working memory-dependent form of associative learning, we identify recipr…
-
-</details>
-
----
-
-## [Brain criticality emerges with developmental shifts in frequency-specific excitation-inhibition balance](https://www.biorxiv.org/content/10.64898/2026.03.26.714563v1?rss=1)
-*bioRxiv*  
+## [Identification of common spontaneous brain activity alterations across psychiatric disorders](https://www.nature.com/articles/s41398-026-03986-8)
+*Trans Psychiatry*  
 Score: **0.40**  
-Published: 2026-03-28T00:00:00+00:00
-Tags: brain development, modelling
+Published: 2026-04-03T00:00:00+00:00
+Tags: brain activity, psychiatric disorders
 
-Discusses brain development and criticality, relevant for aging and brain's shifting balances in excitation-inhibition.
+Touches on brain activity commonalities in psychiatric disorders, which can relate to brain aging models.
 
 <details>
 <summary>RSS summary</summary>
 
-Adolescent brain maturation involves structural changes effecting a shift in excitation/inhibition (E/I) balance, yet the functional implications of these changes remain unclear. One implication is a shift with respect to criticality. Adult brains, at rest, operate near a critical phase transition, at the boundary between an active, excitation-dominant phase, and an absorbing, inhibition-dominant phase. Special properties emerge when neural systems are balanced at criticality, including maximal …
+<p>Translational Psychiatry, Published online: 03 April 2026; <a href="https://www.nature.com/articles/s41398-026-03986-8">doi:10.1038/s41398-026-03986-8</a></p>Identification of common spontaneous brain activity alterations across psychiatric disorders
 
 </details>
 
