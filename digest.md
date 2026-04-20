@@ -1,58 +1,58 @@
-# Weekly ToC Digest (week of 2026-04-13)
+# Weekly ToC Digest (week of 2026-04-20)
 
-Reviewed several papers for relevance to brain aging and computational modeling. Prioritized neuroimaging-based aging biomarkers and contributions to brain-age modeling. No items directly matched core interests in brain-age modeling or computational methodologies. Focus on computational methods and brain-aging models within the context of psychiatry and neuroimaging. No relevant items for brain aging, neuroimaging, or computational modeling this week.
+No articles in this week's feed align well with brain aging and computational modeling interests. No items reviewed closely align with the specific interests in brain aging, brain-age modeling, or neuroimaging applications. No directly relevant papers specifically on brain aging, brain age models, or neuroimaging biomarkers tied to aging endpoints. Most entries either focus on clinical topics or unrelated fields. Reviewed RSS items with a focus on papers related to brain aging and computational modeling in this week's publications.
 
 **Included:** 3 (score ≥ 0.35)  
-**Scored:** 8 total items
+**Scored:** 12 total items
 
 ---
 
-## [Identification and Analysis of Novel RNA Editing Sites in Neurodegenerative Diseases Using Machine Learning Approaches.](https://www.biorxiv.org/content/10.64898/2026.04.09.716726v1?rss=1)
-*bioRxiv*  
-Score: **0.85**  
-Published: 2026-04-13T00:00:00+00:00
-Tags: machine learning, neurodegeneration
-
-Involves machine learning methods to analyze RNA editing in neurodegenerative diseases, potentially connected to brain aging mechanisms.
-
-<details>
-<summary>RSS summary</summary>
-
-ABSTRACT Background: RNA editing is a post-transcriptional modification that alters the sequence of an RNA transcript. Two types of RNA editing were found in mammals, involving the enzymatic deamination of either adenosine to inosine (A-to-I) or cytidine to uridine (C-to-U) nucleotides in RNA. A-to-I, which is the most common form of RNA editing, is mediated by the ADAR (adenosine deaminases acting on RNA) family of enzymes, ADAR1, ADAR2, and ADAR3. The editing event alters the hydrogen bond pai…
-
-</details>
-
----
-
-## [Age-dependent mitochondrial health decline in human induced neurons](https://www.biorxiv.org/content/10.64898/2026.04.09.717473v1?rss=1)
-*bioRxiv*  
+## [Anemia and Blood Biomarkers of Alzheimer Disease in Dementia Development](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2847873)
+*JAMA Network Open*  
 Score: **0.70**  
-Published: 2026-04-13T00:00:00+00:00
-Tags: aging, neurons
+Published: 2026-04-17T00:00:00+00:00
+Tags: MRI, neurodegeneration
 
-Focuses on aging-related decline in neurons, relevant for understanding aging mechanisms in brain cells.
+Discusses blood biomarkers related to Alzheimer’s, which could tie into neuroimaging studies of brain aging and neurodegeneration.
 
 <details>
 <summary>RSS summary</summary>
 
-In humans, aging is associated with an increased risk of developing neurodegenerative diseases such as Parkinson's disease and Alzheimer's disease. In neurons, the effect of aging on intrinsic molecular processes, and how they tie to age-related neurodegeneration remains unclear. Animal studies have shown that mitochondrial function decline, autophagy impairment and defective elimination of damaged mitochondria by mitophagy are all central features of neuronal aging. However, very few studies ha…
+This cohort study assesses whether anemia among adults aged 60 years or older is associated with incident dementia risk and blood biomarkers of Alzheimer disease pathology, neurodegeneration, and glial activation.
 
 </details>
 
 ---
 
-## [Are infraslow oscillations the missing link between sleep and Alzheimer's?](https://www.biorxiv.org/content/10.64898/2026.04.09.717425v1?rss=1)
-*bioRxiv*  
+## [Correlation between peripheral and central inflammatory and neuronal injury markers in mild cognitive impairment patients: the role of blood-brain barrier status](https://www.nature.com/articles/s41398-026-04050-1)
+*Trans Psychiatry*  
 Score: **0.50**  
-Published: 2026-04-13T00:00:00+00:00
-Tags: Alzheimer's, neurophysiology
+Published: 2026-04-17T00:00:00+00:00
+Tags: neuroimaging, neuroinflammation
 
-Investigates neurophysiological mechanisms potentially linking sleep to Alzheimer's, which is relevant to age-related neurodegeneration studies.
+Relevant due to focus on central inflammatory and neuronal markers which may interface with neuroimaging and brain aging models.
 
 <details>
 <summary>RSS summary</summary>
 
-INTRODUCTION: Locus coeruleus and glymphatic dysfunction are linked both to Alzheimer's disease (AD) and, recently, to infraslow oscillation in sleep spindle (sigma) activity (ISO). Here we hypothesise ISO integrity is a critical link between sleep and AD. METHODS: We analyzed non-rapid eye movement sleep EEG from AD and controls, extracting ISO peak amplitude, intrinsic frequency, and bandwidth from the sigma-power time course. We assessed group differences and correlations with plasma biomarke…
+<p>Translational Psychiatry, Published online: 17 April 2026; <a href="https://www.nature.com/articles/s41398-026-04050-1">doi:10.1038/s41398-026-04050-1</a></p>Correlation between peripheral and central inflammatory and neuronal injury markers in mild cognitive impairment patients: the role of blood-brain barrier status
+
+</details>
+
+---
+
+## [[Review] Cognitive resilience in ageing: determinants and interventions](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(26)00027-X/fulltext?rss=yes)
+*Lancet Digital Health*  
+Score: **0.40**  
+Published: 2026-05-01T00:00:00+00:00
+
+
+The article discusses cognitive resilience in aging, but lacks focus on neuroimaging-based aging biomarkers or advanced computational models.
+
+<details>
+<summary>RSS summary</summary>
+
+Understanding the factors that contribute to the preservation of cognitive abilities into advanced age despite brain injury or disease is a key goal of ageing research. Up until the last two decades, the extent of brain pathology could only be fully appreciated at autopsy. Advances in laboratory and imaging biomarkers now mean that cognitive function can be understood in the context of markers of brain injury and specific pathologies (eg, Alzheimer's disease, Lewy body disease, and cerebrovascul…
 
 </details>
 
