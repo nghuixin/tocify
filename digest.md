@@ -1,58 +1,58 @@
-# Weekly ToC Digest (week of 2026-08-17)
+# Weekly ToC Digest (week of 2026-08-24)
 
-Papers were evaluated based on their relevance to brain-aging, brain-age modeling, neuroimaging, and computational approaches, as per the given interests. This week's feed contained no relevant articles on brain aging topics. All items are unrelated to the targeted research areas. Prioritized based on brain age modeling, neuroimaging biomarkers, computational methods, aging trajectories. No items closely matching the brain aging or brain-age modeling interests this week.
+Papers analyzing brain-age models or computational methods in brain aging are prioritized. Downweighted biomedical topics without direct neuroimaging correlation. No items significantly match the brain-aging interests specified. Filtered and prioritized papers involving brain-age modeling, neuroimaging biomarkers related to aging, and computational methods relevant to brain aging or psychiatric disorders. This week's RSS feed didn't feature any items directly related to brain aging, brain age models, or computational methods relevant to this field.
 
 **Included:** 3 (score ≥ 0.35)  
-**Scored:** 3 total items
+**Scored:** 5 total items
 
 ---
 
-## [Explainable AD classification using integrated quantum-inspired deep neural and transformer models](https://www.nature.com/articles/s41598-026-63429-8)
+## [Integrating enhanced Crested Porcupine Optimizer with contrastive learning for multimodal Alzheimer’s disease diagnosis](https://www.nature.com/articles/s41598-026-67885-0)
 *Scientific Reports*  
-Score: **0.80**  
-Published: 2026-08-17T00:00:00+00:00
-Tags: AD classification, deep learning, transformer models, neuroimaging
+Score: **0.90**  
+Published: 2026-08-24T00:00:00+00:00
+Tags: multimodal, brain age, MRI, computational
 
-This paper involves computational modeling with potential application to neurodegenerative disorders like Alzheimer's disease, using novel deep learning techniques which could be relevant for brain-age modeling.
+This paper involves multimodal imaging and advanced computational techniques for Alzheimer's diagnosis, relevant for brain age models.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Scientific Reports, Published online: 17 August 2026; <a href="https://www.nature.com/articles/s41598-026-63429-8">doi:10.1038/s41598-026-63429-8</a></p>Explainable AD classification using integrated quantum-inspired deep neural and transformer models
+<p>Scientific Reports, Published online: 24 August 2026; <a href="https://www.nature.com/articles/s41598-026-67885-0">doi:10.1038/s41598-026-67885-0</a></p>Integrating enhanced Crested Porcupine Optimizer with contrastive learning for multimodal Alzheimer’s disease diagnosis
 
 </details>
 
 ---
 
-## [Delayed brain network energy development in preterm youth impairs cognitive function: evidence from the longitudinal ABCD study](https://www.nature.com/articles/s41398-026-04326-6)
-*Trans Psychiatry*  
-Score: **0.70**  
-Published: 2026-08-15T00:00:00+00:00
-Tags: longitudinal, normative, brain network, development
-
-Addresses brain network development and longitudinal analysis, relevant for understanding aging trajectories and normative baselines.
-
-<details>
-<summary>RSS summary</summary>
-
-<p>Translational Psychiatry, Published online: 15 August 2026; <a href="https://www.nature.com/articles/s41398-026-04326-6">doi:10.1038/s41398-026-04326-6</a></p>Delayed brain network energy development in preterm youth impairs cognitive function: evidence from the longitudinal ABCD study
-
-</details>
-
----
-
-## [Microglia activation by derepression of endogenous retroviruses drives inflammation and cellular senescence](https://www.nature.com/articles/s41593-026-02404-y)
-*Nature Neuroscience*  
+## [An inherited hypomorphic variant in PIEZO2 reveals structural features of mechanotransduction](https://www.cell.com/neuron/fulltext/S0896-6273(26)00585-4?rss=yes)
+*Neuron*  
 Score: **0.40**  
-Published: 2026-08-17T00:00:00+00:00
-Tags: microglia, neuroinflammation, aging
+Published: 2026-08-24T00:00:00+00:00
+Tags: neurodegeneration, neuronal
 
-Although primarily biological, this study links inflammation and cellular senescence in microglia to aging, potentially relevant for understanding brain aging.
+Focus on neuronal function linked to mechanotransduction, indirectly relevant to neurodegeneration and brain aging research.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Nature Neuroscience, Published online: 17 August 2026; <a href="https://www.nature.com/articles/s41593-026-02404-y">doi:10.1038/s41593-026-02404-y</a></p>Reawakening of endogenous retroviruses due to loss of chromatin compaction causes microglia to acquire aging-associated features, leading to perturbed tissue homeostasis and behavior.
+Nickolls et al. identify a clinical variant in PIEZO2 that impairs touch sensation and body awareness. By showing how this variant prevents PIEZO channels from opening and deforming under pressure, the study adds to our understanding of how specific PIEZO protein domains contribute to force-induced conformational changes.
+
+</details>
+
+---
+
+## [Frequency-specific structure-function decoupling underlies core symptoms in schizophrenia](https://www.nature.com/articles/s41398-026-04320-y)
+*Trans Psychiatry*  
+Score: **0.40**  
+Published: 2026-08-22T00:00:00+00:00
+Tags: neuroimaging, schizophrenia, structure-function
+
+Involves neuroimaging and structure-function decoupling, which could relate to brain aging through imaging markers.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Translational Psychiatry, Published online: 22 August 2026; <a href="https://www.nature.com/articles/s41398-026-04320-y">doi:10.1038/s41398-026-04320-y</a></p>Frequency-specific structure-function decoupling underlies core symptoms in schizophrenia
 
 </details>
 
