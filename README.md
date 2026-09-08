@@ -2,14 +2,13 @@
 
 This repo runs a GitHub Action once a week (or on-demand) that:
 
-1. pulls new items from a list of journal RSS feeds  
-2. uses OpenAI to triage which items match your research interests  
-3. writes a ranked digest to `digest.md` and commits it back to the repo
 
-It’s meant to be forked and customized.
+Built an automated literature-monitoring pipeline that pulls new publications from journal RSS feeds, uses an OpenAI model to rank papers against configurable research interests, and generates a curated weekly Markdown digest. The workflow runs automatically through GitHub Actions and commits updated results back to the repository, making the system easy to fork and customize.  
 
-This was almost entirely vibe-coded as an exercise (I'm pleased at how well it works!)
+Skills: Python · OpenAI API / LLM integration · Prompt engineering · RSS/data ingestion · GitHub Actions · CI/CD automation · API key/secret management · Markdown · Research workflow automation  
 
+It’s meant to be forked and customized.  
+ 
 ---
 
 ## What’s in this repo
