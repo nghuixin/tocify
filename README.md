@@ -1,8 +1,4 @@
-# tocify — Weekly Journal ToC Digest (RSS → OpenAI → `digest.md`)
-
-This repo runs a GitHub Action once a week (or on-demand) that:
-
-
+# tocify — Weekly Journal ToC Digest (RSS → OpenAI → `digest.md`)  
 Built an automated literature-monitoring pipeline that pulls new publications from journal RSS feeds, uses an OpenAI model to rank papers against configurable research interests, and generates a curated weekly Markdown digest. The workflow runs automatically through GitHub Actions and commits updated results back to the repository, making the system easy to fork and customize.  
 
 Skills: Python · OpenAI API / LLM integration · Prompt engineering · RSS/data ingestion · GitHub Actions · CI/CD automation · API key/secret management · Markdown · Research workflow automation  
