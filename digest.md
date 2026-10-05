@@ -1,75 +1,58 @@
-# Weekly ToC Digest (week of 2026-09-28)
+# Weekly ToC Digest (week of 2026-10-05)
 
-Selection focused on papers with potential relevance to brain aging models, computational methods, and neuroimaging biomarkers. Focus on neuroimaging-based brain aging models and computational approaches in neuroscience. No items relevant to brain aging or related computational models were found in the current week's RSS feed based on user interests. Filtered items based on interest in brain aging, neuroimaging, and computational methods for brain-age modeling. No directly relevant articles found; all items scored low.
+Here is the ranked list of articles relevant to brain aging, computational neuroimaging, and related modeling methods. Articles focus on topics like harmonization, neuroimaging biomarkers, or brain-age models per the specified weights. No relevant brain aging papers found for this week. No relevant papers for brain aging or computational modeling interests were found in the current week's RSS feed. No RSS items directly related to brain-aging or computational models involving brain age, aging clocks, or neuroimaging biomarkers specific to aging.
 
-**Included:** 4 (score ≥ 0.35)  
-**Scored:** 14 total items
+**Included:** 3 (score ≥ 0.35)  
+**Scored:** 4 total items
 
 ---
 
-## [A Large-Scale Deep Normative Modeling of Primary Sulcal Patterns Reveals Deviations in a Spectrum of Disorders](https://www.biorxiv.org/content/10.64898/2026.09.24.754179v1?rss=1)
+## [Imputation-Based Harmonization Mitigates Site Effects Without Data Leakage in Machine Learning Studies](https://www.biorxiv.org/content/10.64898/2026.09.28.755204v1?rss=1)
 *bioRxiv*  
-Score: **0.90**  
-Published: 2026-09-28T00:00:00+00:00
-Tags: normative, brain age, MRI, computational
+Score: **0.95**  
+Published: 2026-10-05T00:00:00+00:00
+Tags: harmonization, neuroimaging, ML
 
-The paper uses deep normative modeling to analyze sulcal patterns which could be related to brain aging endpoints and neuroimaging. It also involves unsupervised machine learning, aligning with computational interests.
+This paper addresses harmonization in neuroimaging by removing site-effects through imputation, improving cross-site ML study robustness.
 
 <details>
 <summary>RSS summary</summary>
 
-Primary sulcal patterns, the spatial arrangement of the earliest cortical folds, emerge prenatally and remain essentially stable after birth. Alterations are associated with cognitive outcomes and hold promise as clinical biomarkers. However, detecting abnormalities is challenging due to the high topological variability and complexity of normal individual sulcal patterns. Here, we introduce an unsupervised generative model that quantifies individual sulcal pattern deviations against a normative …
+Neuroimaging studies that pool data across clinical sites often suffer from site effects --- variability in imaging measures that arises from technical heterogeneity across sites as opposed to true biological signal. While numerous harmonization methods have been proposed to remove site effects from imaging features, less attention has been placed on how to incorporate harmonization models into common machine-learning pipelines. We demonstrate that current approaches for integration either suffe…
 
 </details>
 
 ---
 
-## [Providing social support to others is associated with younger brain age in mid-to-late adulthood](https://www.nature.com/articles/s41398-026-04459-8)
-*Trans Psychiatry*  
+## [Diffusion MRI of cortical organoids reveals protocol-associated spatial reproducibility and increasing diffusivity with diffusion time](https://www.biorxiv.org/content/10.64898/2026.09.29.755111v1?rss=1)
+*bioRxiv*  
 Score: **0.80**  
-Published: 2026-09-28T00:00:00+00:00
-Tags: brain age
+Published: 2026-10-05T00:00:00+00:00
+Tags: diffusion MRI, biomarkers, neuroimaging
 
-Direct relevance to brain age as it discusses factors influencing brain aging, connecting social support with brain age metrics.
+Explores diffusion MRI models in human organoids, relevant for neuroimaging biomarker development tied to developmental aging.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Translational Psychiatry, Published online: 28 September 2026; <a href="https://www.nature.com/articles/s41398-026-04459-8">doi:10.1038/s41398-026-04459-8</a></p>Providing social support to others is associated with younger brain age in mid-to-late adulthood
+Early human cortical development involves rapid changes in cytoarchitecture that remain difficult to interrogate non-invasively. Biophysical diffusion MRI models provide a potential window onto this microstructure, including water exchange across cell membranes, but their assumptions are difficult to validate directly in developing human tissue. Human cortical organoids provide a tractable biological model in which diffusion measurements can be related to tissue architecture within the same spec…
 
 </details>
 
 ---
 
-## [Decoding natural scenes from patterned optogenetic responses in mouse visual cortex](https://www.biorxiv.org/content/10.64898/2026.09.21.753135v1?rss=1)
-*bioRxiv*  
-Score: **0.50**  
-Published: 2026-09-28T00:00:00+00:00
-Tags: MRI, computational
-
-Implements computational frameworks to evaluate visual representations, potentially relevant for neuroimaging techniques in brain aging studies.
-
-<details>
-<summary>RSS summary</summary>
-
-A central challenge in developing visual cortical prostheses is to determine how visual stimuli should be transformed into effective patterns of cortical stimulation. Although advances in stimulation technologies, including optogenetics, provide increasingly precise control over cortical activity, it remains unclear whether artificially evoked activity can reproduce the information content of naturally evoked visual representations. Here we establish a quantitative framework for evaluating visua…
-
-</details>
-
----
-
-## [Identifying a structural brain network for social anxiety: connectome-based predictive modeling and network analyses in a transdiagnostic sample](https://www.nature.com/articles/s41398-026-04466-9)
-*Trans Psychiatry*  
+## [X and Y chromosomes as determinants of aging and disease](https://www.science.org/doi/abs/10.1126/science.aeh0145?af=R)
+*Science*  
 Score: **0.40**  
-Published: 2026-09-28T00:00:00+00:00
-Tags: connectome, predictive modeling
+Published: 2026-10-01T06:00:21+00:00
+Tags: aging, genetics
 
-Uses connectome-based predictive modeling which may intersect with brain age modeling techniques.
+Some relevance to aging, but lacks keywords or computational methods tied to brain aging models.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Translational Psychiatry, Published online: 28 September 2026; <a href="https://www.nature.com/articles/s41398-026-04466-9">doi:10.1038/s41398-026-04466-9</a></p>Identifying a structural brain network for social anxiety: connectome-based predictive modeling and network analyses in a transdiagnostic sample
+Science, Volume 394, Issue 6819, Page 53-59, October 2026. <br />
 
 </details>
 
