@@ -1,58 +1,126 @@
-# Weekly ToC Digest (week of 2026-10-05)
+# Weekly ToC Digest (week of 2026-10-12)
 
-Here is the ranked list of articles relevant to brain aging, computational neuroimaging, and related modeling methods. Articles focus on topics like harmonization, neuroimaging biomarkers, or brain-age models per the specified weights. No relevant brain aging papers found for this week. No relevant papers for brain aging or computational modeling interests were found in the current week's RSS feed. No RSS items directly related to brain-aging or computational models involving brain age, aging clocks, or neuroimaging biomarkers specific to aging.
+Triage based on brain aging and computational modeling relevance. Focusing on computational advancements and brain aging models, particularly those that involve MRI and normative baselines. No relevant articles on brain aging models or neuroimaging biomarkers were found in this week's RSS items. All articles focused on unrelated topics. Prioritized based on brain-aging models, neuroimaging biomarkers, and computational contributions.
 
-**Included:** 3 (score ≥ 0.35)  
-**Scored:** 4 total items
+**Included:** 7 (score ≥ 0.35)  
+**Scored:** 8 total items
 
 ---
 
-## [Imputation-Based Harmonization Mitigates Site Effects Without Data Leakage in Machine Learning Studies](https://www.biorxiv.org/content/10.64898/2026.09.28.755204v1?rss=1)
-*bioRxiv*  
-Score: **0.95**  
-Published: 2026-10-05T00:00:00+00:00
-Tags: harmonization, neuroimaging, ML
+## [Association of genetic risk, lifestyle, and their interaction with MRI-based brain aging](https://www.nature.com/articles/s41398-026-04520-6)
+*Trans Psychiatry*  
+Score: **0.90**  
+Published: 2026-10-11T00:00:00+00:00
+Tags: brain age, MRI, genetic risk
 
-This paper addresses harmonization in neuroimaging by removing site-effects through imputation, improving cross-site ML study robustness.
+Focuses on MRI-based brain aging with genetic and lifestyle factors, aligning with brain-age modeling interests.
 
 <details>
 <summary>RSS summary</summary>
 
-Neuroimaging studies that pool data across clinical sites often suffer from site effects --- variability in imaging measures that arises from technical heterogeneity across sites as opposed to true biological signal. While numerous harmonization methods have been proposed to remove site effects from imaging features, less attention has been placed on how to incorporate harmonization models into common machine-learning pipelines. We demonstrate that current approaches for integration either suffe…
+<p>Translational Psychiatry, Published online: 11 October 2026; <a href="https://www.nature.com/articles/s41398-026-04520-6">doi:10.1038/s41398-026-04520-6</a></p>Association of genetic risk, lifestyle, and their interaction with MRI-based brain aging
 
 </details>
 
 ---
 
-## [Diffusion MRI of cortical organoids reveals protocol-associated spatial reproducibility and increasing diffusivity with diffusion time](https://www.biorxiv.org/content/10.64898/2026.09.29.755111v1?rss=1)
-*bioRxiv*  
+## [Robust and replicable effects of ageing on resting-state brain electrophysiology measured with MEG](https://elifesciences.org/articles/108829)
+*eLife*  
 Score: **0.80**  
-Published: 2026-10-05T00:00:00+00:00
-Tags: diffusion MRI, biomarkers, neuroimaging
+Published: 2026-10-12T00:00:00+00:00
+Tags: brain age, electrophysiology, aging biomarkers
 
-Explores diffusion MRI models in human organoids, relevant for neuroimaging biomarker development tied to developmental aging.
+Explores brain electrophysiology changes with aging using MEG, relevant for aging biomarkers.
 
 <details>
 <summary>RSS summary</summary>
 
-Early human cortical development involves rapid changes in cytoarchitecture that remain difficult to interrogate non-invasively. Biophysical diffusion MRI models provide a potential window onto this microstructure, including water exchange across cell membranes, but their assumptions are difficult to validate directly in developing human tissue. Human cortical organoids provide a tractable biological model in which diffusion measurements can be related to tissue architecture within the same spec…
+Non-invasive recordings of brain electrophysiology provide credible insights into decline in neuronal functioning with age. New approaches are required to translate these results into compelling clinical metrics and meet the global challenge of preserving brain health in ageing. Changes in neuronal dynamics with ageing are observable in the power spectra of EEG and MEG recordings. Highly promising candidates for electrophysiological markers have been identified, but progress is hindered by subst…
 
 </details>
 
 ---
 
-## [X and Y chromosomes as determinants of aging and disease](https://www.science.org/doi/abs/10.1126/science.aeh0145?af=R)
-*Science*  
-Score: **0.40**  
-Published: 2026-10-01T06:00:21+00:00
-Tags: aging, genetics
+## [Menopause-associated proteomic changes link to brain ageing and dementia risk](https://www.nature.com/articles/s41582-026-01278-9)
+*Nature Rev Neurol*  
+Score: **0.80**  
+Published: 2026-10-09T00:00:00+00:00
+Tags: brain aging, biomarkers, dementia
 
-Some relevance to aging, but lacks keywords or computational methods tied to brain aging models.
+Proteomic changes tied to brain aging and dementia risk indicates relevance to aging biomarkers and possible modeling applications.
 
 <details>
 <summary>RSS summary</summary>
 
-Science, Volume 394, Issue 6819, Page 53-59, October 2026. <br />
+<p>Nature Reviews Neurology, Published online: 09 October 2026; <a href="https://www.nature.com/articles/s41582-026-01278-9">doi:10.1038/s41582-026-01278-9</a></p>Proteomic changes associated with menopause track with cognitive ageing and dementia risk, according to new research.
+
+</details>
+
+---
+
+## [From Intrinsic Topography to Cognitive Prediction: Benchmarking Approaches to Personalized Cortical Parcellation](https://www.biorxiv.org/content/10.64898/2026.10.09.758001v1?rss=1)
+*bioRxiv*  
+Score: **0.60**  
+Published: 2026-10-12T00:00:00+00:00
+Tags: fMRI, personalized, cortical parcellation, generalization
+
+Focuses on personalized cortical parcellation using fMRI data, discussing generalization and reliability, which aligns with interests in brain-aging models and neuroimaging-based analysis.
+
+<details>
+<summary>RSS summary</summary>
+
+Personalized functional magnetic resonance imaging (fMRI) adapts cortical parcellations to individual functional anatomy. Various methods have been proposed that differ in how they combine group-level information, spatial constraints, and individual functional data. Using the Human Connectome Project Young Adult dataset (N = 947), we compared five personalized parcellation methods and a standard group-level atlas. For each method, we calculated functional homogeneity, test-retest reliability, pa…
+
+</details>
+
+---
+
+## [Alzheimer’s disease target and drug discovery by leveraging multiomics and electronic health data](https://www.nature.com/articles/s41593-026-02472-0)
+*Nature Neuroscience*  
+Score: **0.60**  
+Published: 2026-10-08T00:00:00+00:00
+Tags: Alzheimer's, multiomics, neurodegeneration
+
+Multiomics approach may offer insights into brain aging pathways tied to neurodegeneration.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Neuroscience, Published online: 08 October 2026; <a href="https://www.nature.com/articles/s41593-026-02472-0">doi:10.1038/s41593-026-02472-0</a></p>Hou et al. show a drug target compendium supported by human genetic and real-world patient data for Alzheimer’s disease and validate epoxide hydrolase 2 as a causal Alzheimer’s disease target using CRISPR interference and gene editing experiments in human models.
+
+</details>
+
+---
+
+## [Alus harbor genetic variants that shape the human cortex](https://www.nature.com/articles/s41593-026-02492-w)
+*Nature Neuroscience*  
+Score: **0.50**  
+Published: 2026-10-12T00:00:00+00:00
+Tags: genetic variants, cortex, neurodevelopmental
+
+Genetic elements affecting brain structure connect to aging pathways; although not directly on brain-age models, it might offer insights into genetic modulators of neuroimaging features.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Neuroscience, Published online: 12 October 2026; <a href="https://www.nature.com/articles/s41593-026-02492-w">doi:10.1038/s41593-026-02492-w</a></p>The genetic changes associated with development of the human cortex are difficult to test functionally, especially in the context of gene regulation. In this issue, Matoba et al. show that variants that shape human cortical structure are hiding inside Alu transposable elements, co-opting their inbuilt machinery to rewire regulatory networks…
+
+</details>
+
+---
+
+## [How aging reshapes implicit learning: behavioral and oscillatory evidence from an EEG-adapted Fast Mapping paradigm.](https://www.biorxiv.org/content/10.64898/2026.10.07.757312v1?rss=1)
+*bioRxiv*  
+Score: **0.40**  
+Published: 2026-10-12T00:00:00+00:00
+Tags: EEG, aging, learning
+
+Explores age-related learning changes using EEG data, discussing neural reorganization with aging, indirectly relevant to aging models but lacks direct computational model focus.
+
+<details>
+<summary>RSS summary</summary>
+
+Most of everyday memory formation occurs without deliberate intent, yet the neural mechanisms supporting implicit encoding and their reorganization with age remain poorly understood. The present study investigated age-related changes in implicit learning using an EEG-adapted Fast Mapping paradigm (the Disjunctive Inference Implicit Learning Test, DIILT) in 31 younger and 35 older adults, paired with a comprehensive neuropsychological assessment and a one-month delayed recognition measure. Behavi…
 
 </details>
 
