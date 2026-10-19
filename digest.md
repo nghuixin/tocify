@@ -1,126 +1,126 @@
-# Weekly ToC Digest (week of 2026-10-12)
+# Weekly ToC Digest (week of 2026-10-19)
 
-Triage based on brain aging and computational modeling relevance. Focusing on computational advancements and brain aging models, particularly those that involve MRI and normative baselines. No relevant articles on brain aging models or neuroimaging biomarkers were found in this week's RSS items. All articles focused on unrelated topics. Prioritized based on brain-aging models, neuroimaging biomarkers, and computational contributions.
+Focused on identifying papers relevant to brain aging using neuroimaging and computational methods, but none fit criteria. Filtered for brain-age relevance with a focus on neuroimaging, computational methods, and brain aging models. Focus on neuroimaging techniques, brain age models, and computational advancements in brain aging. No relevant papers on brain age or brain aging models found this week.
 
 **Included:** 7 (score ≥ 0.35)  
 **Scored:** 8 total items
 
 ---
 
-## [Association of genetic risk, lifestyle, and their interaction with MRI-based brain aging](https://www.nature.com/articles/s41398-026-04520-6)
-*Trans Psychiatry*  
-Score: **0.90**  
-Published: 2026-10-11T00:00:00+00:00
-Tags: brain age, MRI, genetic risk
-
-Focuses on MRI-based brain aging with genetic and lifestyle factors, aligning with brain-age modeling interests.
-
-<details>
-<summary>RSS summary</summary>
-
-<p>Translational Psychiatry, Published online: 11 October 2026; <a href="https://www.nature.com/articles/s41398-026-04520-6">doi:10.1038/s41398-026-04520-6</a></p>Association of genetic risk, lifestyle, and their interaction with MRI-based brain aging
-
-</details>
-
----
-
-## [Robust and replicable effects of ageing on resting-state brain electrophysiology measured with MEG](https://elifesciences.org/articles/108829)
-*eLife*  
-Score: **0.80**  
-Published: 2026-10-12T00:00:00+00:00
-Tags: brain age, electrophysiology, aging biomarkers
-
-Explores brain electrophysiology changes with aging using MEG, relevant for aging biomarkers.
-
-<details>
-<summary>RSS summary</summary>
-
-Non-invasive recordings of brain electrophysiology provide credible insights into decline in neuronal functioning with age. New approaches are required to translate these results into compelling clinical metrics and meet the global challenge of preserving brain health in ageing. Changes in neuronal dynamics with ageing are observable in the power spectra of EEG and MEG recordings. Highly promising candidates for electrophysiological markers have been identified, but progress is hindered by subst…
-
-</details>
-
----
-
-## [Menopause-associated proteomic changes link to brain ageing and dementia risk](https://www.nature.com/articles/s41582-026-01278-9)
+## [Multi-organ imaging genetics: towards an integrated view of brain, body and brain diseases](https://www.nature.com/articles/s41582-026-01276-x)
 *Nature Rev Neurol*  
-Score: **0.80**  
-Published: 2026-10-09T00:00:00+00:00
-Tags: brain aging, biomarkers, dementia
+Score: **0.90**  
+Published: 2026-10-19T00:00:00+00:00
+Tags: brain age, multimodal, imaging genetics
 
-Proteomic changes tied to brain aging and dementia risk indicates relevance to aging biomarkers and possible modeling applications.
+Highlights integration of brain imaging with broader body systems and discusses analytical frameworks applicable to brain diseases, pertinent to brain aging and computational modeling.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Nature Reviews Neurology, Published online: 09 October 2026; <a href="https://www.nature.com/articles/s41582-026-01278-9">doi:10.1038/s41582-026-01278-9</a></p>Proteomic changes associated with menopause track with cognitive ageing and dementia risk, according to new research.
+<p>Nature Reviews Neurology, Published online: 19 October 2026; <a href="https://www.nature.com/articles/s41582-026-01276-x">doi:10.1038/s41582-026-01276-x</a></p>This article provides an overview of brain-focused multi-organ imaging genetics, outlining key data resources and analytical frameworks and reviewing cross-organ genetic insights into brain diseases. The authors propose a roadmap for implementing agentic AI co-scientists as essential infrastructure for advancing an integrated, whole-bo…
 
 </details>
 
 ---
 
-## [From Intrinsic Topography to Cognitive Prediction: Benchmarking Approaches to Personalized Cortical Parcellation](https://www.biorxiv.org/content/10.64898/2026.10.09.758001v1?rss=1)
+## [Hidden Markov Modeling Reveals Altered Functional Network Dynamics in Multiple Sclerosis](https://www.biorxiv.org/content/10.64898/2026.10.15.759440v1?rss=1)
 *bioRxiv*  
-Score: **0.60**  
-Published: 2026-10-12T00:00:00+00:00
-Tags: fMRI, personalized, cortical parcellation, generalization
+Score: **0.70**  
+Published: 2026-10-19T00:00:00+00:00
+Tags: MRI, generalization
 
-Focuses on personalized cortical parcellation using fMRI data, discussing generalization and reliability, which aligns with interests in brain-aging models and neuroimaging-based analysis.
+Hidden Markov Models applied to neuroimaging data have potential relevance for brain aging models, offering insights into dynamic brain network changes over time.
 
 <details>
 <summary>RSS summary</summary>
 
-Personalized functional magnetic resonance imaging (fMRI) adapts cortical parcellations to individual functional anatomy. Various methods have been proposed that differ in how they combine group-level information, spatial constraints, and individual functional data. Using the Human Connectome Project Young Adult dataset (N = 947), we compared five personalized parcellation methods and a standard group-level atlas. For each method, we calculated functional homogeneity, test-retest reliability, pa…
+Purpose: Multiple sclerosis (MS) is a neurodegenerative and demyelinating disease of the central nervous system. Recent evidence suggests that localized gray matter atrophy in MS may be involved in distributed functional brain networks. However, the dynamic trajectory of functional network alterations in MS remains unclear. The current study extends prior network-mediated findings and aims to investigate the dynamic functional connectivity (dFC) and energetic landscape across an atrophy-prone ne…
 
 </details>
 
 ---
 
-## [Alzheimer’s disease target and drug discovery by leveraging multiomics and electronic health data](https://www.nature.com/articles/s41593-026-02472-0)
-*Nature Neuroscience*  
-Score: **0.60**  
-Published: 2026-10-08T00:00:00+00:00
-Tags: Alzheimer's, multiomics, neurodegeneration
-
-Multiomics approach may offer insights into brain aging pathways tied to neurodegeneration.
-
-<details>
-<summary>RSS summary</summary>
-
-<p>Nature Neuroscience, Published online: 08 October 2026; <a href="https://www.nature.com/articles/s41593-026-02472-0">doi:10.1038/s41593-026-02472-0</a></p>Hou et al. show a drug target compendium supported by human genetic and real-world patient data for Alzheimer’s disease and validate epoxide hydrolase 2 as a causal Alzheimer’s disease target using CRISPR interference and gene editing experiments in human models.
-
-</details>
-
----
-
-## [Alus harbor genetic variants that shape the human cortex](https://www.nature.com/articles/s41593-026-02492-w)
+## [Spatiotemporal remodeling in habenula marks the onset of depression-related phenotypes](https://www.nature.com/articles/s41593-026-02488-6)
 *Nature Neuroscience*  
 Score: **0.50**  
-Published: 2026-10-12T00:00:00+00:00
-Tags: genetic variants, cortex, neurodevelopmental
+Published: 2026-10-19T00:00:00+00:00
+Tags: neuroimaging, brain age
 
-Genetic elements affecting brain structure connect to aging pathways; although not directly on brain-age models, it might offer insights into genetic modulators of neuroimaging features.
+Focuses on neuronal adaptations potentially applicable to understanding neurobiological underpinnings of brain aging and modifying predictive models.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Nature Neuroscience, Published online: 12 October 2026; <a href="https://www.nature.com/articles/s41593-026-02492-w">doi:10.1038/s41593-026-02492-w</a></p>The genetic changes associated with development of the human cortex are difficult to test functionally, especially in the context of gene regulation. In this issue, Matoba et al. show that variants that shape human cortical structure are hiding inside Alu transposable elements, co-opting their inbuilt machinery to rewire regulatory networks…
+<p>Nature Neuroscience, Published online: 19 October 2026; <a href="https://www.nature.com/articles/s41593-026-02488-6">doi:10.1038/s41593-026-02488-6</a></p>Molina et al. show in chronically stressed mice that neuronal and transcriptional adaptations in the habenula coincide with the onset of depressive phenotype, guiding temporally defined antidepressant interventions.
 
 </details>
 
 ---
 
-## [How aging reshapes implicit learning: behavioral and oscillatory evidence from an EEG-adapted Fast Mapping paradigm.](https://www.biorxiv.org/content/10.64898/2026.10.07.757312v1?rss=1)
+## [Spatiotemporal transcriptomic dynamic across the auditory pathway from young to old age in 5xFAD Alzheimer disease mice](https://www.biorxiv.org/content/10.64898/2026.10.17.759861v1?rss=1)
 *bioRxiv*  
-Score: **0.40**  
-Published: 2026-10-12T00:00:00+00:00
-Tags: EEG, aging, learning
+Score: **0.50**  
+Published: 2026-10-18T00:00:00+00:00
+Tags: aging, Alzheimer's
 
-Explores age-related learning changes using EEG data, discussing neural reorganization with aging, indirectly relevant to aging models but lacks direct computational model focus.
+Focuses on age-specific genomic effects with relevance to neurodegeneration, but lacks direct computational modeling contributions.
 
 <details>
 <summary>RSS summary</summary>
 
-Most of everyday memory formation occurs without deliberate intent, yet the neural mechanisms supporting implicit encoding and their reorganization with age remain poorly understood. The present study investigated age-related changes in implicit learning using an EEG-adapted Fast Mapping paradigm (the Disjunctive Inference Implicit Learning Test, DIILT) in 31 younger and 35 older adults, paired with a comprehensive neuropsychological assessment and a one-month delayed recognition measure. Behavi…
+Auditory dysfunction can precede clinical dementia, but the molecular progression of Alzheimer disease (AD) pathology from the sensory periphery to auditory cortex remains poorly resolved. We performed bulk RNA sequencing of auditory cortex (AC), inferior colliculus (IC), cochlear nucleus (CN), and cochlea from 5xFAD and wild-type mice at postnatal day 50 (P50), 8 months, 11 months, and 16 months. Age-specific genotype effects and Genotype x Age interactions were evaluated using DESeq2, followed…
+
+</details>
+
+---
+
+## [Sex shapes capillary flows and oxygen extraction in the middle-aged mouse brain](https://www.biorxiv.org/content/10.64898/2026.10.12.758495v1?rss=1)
+*bioRxiv*  
+Score: **0.45**  
+Published: 2026-10-18T00:00:00+00:00
+Tags: aging, cerebrovascular
+
+Investigates cerebrovascular dynamics with potential relevance to brain aging, though lacks modeling or computational aspects.
+
+<details>
+<summary>RSS summary</summary>
+
+Sex differences in brain aging are well documented, but their origin within the cerebrovascular hierarchy remains unclear. Here we show that cortical blood flow is higher in female than male mice at 15 months of age, at a point when an earlier sex difference in pulsatility and resistance indices has already converged, pial vessel diameter shows no difference between sexes, and estrogen levels are similar between sexes. Using an indicator-dilution and intravascular oxygen measurements using two-p…
+
+</details>
+
+---
+
+## [Disentangling biases in responding from substantive effects in computational psychiatry](https://www.pnas.org/doi/abs/10.1073/pnas.2624329123?af=R)
+*PNAS*  
+Score: **0.40**  
+Published: 2026-10-16T07:00:00+00:00
+Tags: computational, bias, psychiatry
+
+Involves computational psychiatry, focusing on bias correction methods which could be relevant for brain-aging models but needs more direct connection.
+
+<details>
+<summary>RSS summary</summary>
+
+Proceedings of the National Academy of Sciences, Volume 123, Issue 43, October 2026. <br />
+
+</details>
+
+---
+
+## [Raphe nuclei in cognition: A network-level framework for behavioral-state control](https://www.cell.com/neuron/fulltext/S0896-6273(26)00723-3?rss=yes)
+*Neuron*  
+Score: **0.35**  
+Published: 2026-10-16T00:00:00+00:00
+Tags: cognition, framework
+
+Offers a network framework with potential modeling applications in brain aging but not directly focused on aging biomarkers.
+
+<details>
+<summary>RSS summary</summary>
+
+Khalighinejad and Rushworth propose that raphe nuclei regulate behavioral-state transitions by integrating environmental statistics within distributed cortico-subcortical networks. Their framework links diverse serotonergic functions and predicts when motivational and cognitive states persist, update, or switch.
 
 </details>
 
