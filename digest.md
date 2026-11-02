@@ -1,75 +1,92 @@
-# Weekly ToC Digest (week of 2026-10-26)
+# Weekly ToC Digest (week of 2026-11-02)
 
-Based on the provided guidelines, only items pertinent to brain age modeling or closely related computational methods were selected, with a focus on neuroimaging and brain aging keywords. Other topics were deprioritized. The week's highlights focus heavily on neuroimaging and computational methods related to brain aging and predictive modeling, consistent with user interests. Focusing on papers with significant brain age modeling and neuroimaging contributions. Papers selected based on relevance to brain aging, neuroimaging biomarkers, computational methods, and ML contributions. High preference given to brain aging models and harmonization techniques.
+Focus on computational contributions and neuroimaging-based biomarkers in brain age modeling. Focusing on brain aging, neuroimaging, and computational models, filtering out unrelated clinical and basic science studies. Focus on items related to brain aging, brain age models, neuroimaging, and computational methods relevant to these fields. No journal items explicitly relevant to brain aging models or methodologies.
 
-**Included:** 4 (score ≥ 0.35)  
-**Scored:** 12 total items
+**Included:** 5 (score ≥ 0.35)  
+**Scored:** 10 total items
 
 ---
 
-## [From micro-architecture to networks: canonical neurobiological architecture of functional brain organization across the lifespan and in psychopathology](https://www.biorxiv.org/content/10.64898/2026.10.22.761188v1?rss=1)
+## [The Canadian Pediatric Imaging Platform (C-PIP) Reference Sample: Neuroimaging Protocol and Cross-site Validation for Harmonized Multimodal Pediatric Imaging](https://www.biorxiv.org/content/10.64898/2026.10.26.761379v1?rss=1)
 *bioRxiv*  
-Score: **0.70**  
-Published: 2026-10-26T00:00:00+00:00
-Tags: brain age, MRI, multimodal, generalization
+Score: **0.90**  
+Published: 2026-10-31T00:00:00+00:00
+Tags: normative, generalization, harmonization, MRI, multimodal
 
-The study offers insights into functional brain network organization across the lifespan using large-scale fMRI data, potentially informing brain aging models.
+This paper discusses multimodal MRI protocols and cross-site validation, crucial for robust generalization and harmonization of neuroimaging data in studies of brain development and aging.
 
 <details>
 <summary>RSS summary</summary>
 
-Understanding how macroscale functional network connectivity (FNC) across the lifespan and in psychopathology is spatially organized with respect to microscale neurobiological architecture remains a challenge. Here, we constructed a cross-omics mapping framework by linking resting-state fMRI data (5,349 individuals, 6-80 years) with 49 neurobiological markers (24 cell types, 19 neurotransmitters, 6 mitochondria). We show that FNC development and aging unfold along cellular and molecular gradient…
+Understanding how the human brain matures from infancy through adolescence is essential for identifying factors that influence health outcomes. Magnetic resonance imaging (MRI) provides powerful tools for characterizing structural, microstructural, functional, and metabolic aspects of brain development; however, many pediatric imaging studies are constrained by small sample sizes, limited geographic diversity, lack of longitudinal measurement, restricted age ranges, and heterogeneous acquisition…
 
 </details>
 
 ---
 
-## [Network Localization of Anxiety as an Early Manifestation of Alzheimer's Disease-related Neurodegeneration](https://www.biorxiv.org/content/10.64898/2026.10.24.761536v1?rss=1)
+## [In-vivo MRI of noradrenergic and dopaminergic nuclei predicts future cognition and Alzheimers disease progression](https://www.biorxiv.org/content/10.64898/2026.10.29.762942v1?rss=1)
 *bioRxiv*  
-Score: **0.60**  
-Published: 2026-10-26T00:00:00+00:00
-Tags: MRI, brain age, neurodegeneration
+Score: **0.85**  
+Published: 2026-11-02T00:00:00+00:00
+Tags: MRI, Alzheimer's, neuroimaging
 
-Investigates MRI-based neurodegeneration patterns relevant for brain aging in Alzheimer's disease, linked to neurodegeneration trajectories.
+The study uses MRI data to predict Alzheimer's progression, relevant for brain aging and potential biomarkers.
 
 <details>
 <summary>RSS summary</summary>
 
-Objective Anxiety is a prominent neuropsychiatric symptom in preclinical Alzheimer's disease (AD), but the neural circuitry linking anxiety and AD remains uncharacterized. We assessed whether anxiety in preclinical AD is independently associated with AD-related neurodegeneration and localizes to a common anxiety network. Methods In cognitively unimpaired (CU) older adults with 3T MRI and amyloid-beta PET (N=1,775), we examined whether an established AD-related atrophy network is associated with …
+Noradrenergic and dopaminergic nuclei modulate cognition, and post-mortem data indicate they are affected early in the neurodegenerative cascade of Alzheimers disease. We derived in-vivo locus coeruleus (LC) and substantia nigra-ventral tegmental area (SN-VTA) MRI integrity measures from 739 ADNI participants, examined MRI-histology correspondence in individuals with both in-vivo imaging and post-mortem data, and tested whether these measures reflect early MRI-indexed degeneration predicting lat…
 
 </details>
 
 ---
 
-## [Mapping the topographic organization of the human zona incerta using diffusion MRI](https://elifesciences.org/articles/103530)
-*eLife*  
-Score: **0.60**  
-Published: 2026-10-23T00:00:00+00:00
-Tags: MRI, neuroimaging
+## [An atlas of the aging glycoproteome reveals how glycosylation modulates autoantibody binding in the brain](https://www.biorxiv.org/content/10.64898/2026.10.28.762617v1?rss=1)
+*bioRxiv*  
+Score: **0.80**  
+Published: 2026-10-31T00:00:00+00:00
+Tags: brain age, biomarkers, aging
 
-Uses diffusion MRI to explore brain structure, relevant for identifying neuroimaging-based biomarkers, though not specifically model-based.
+This study explores glycosylation changes in aging, linking biochemical markers with potential neuroimaging endpoints, relevant for understanding brain aging.
 
 <details>
 <summary>RSS summary</summary>
 
-The zona incerta (ZI) is a deep brain region originally described by Auguste Forel as an ‘immensely confusing area about which nothing can be said’. Despite the elusive nature of this structure, mounting evidence supports the role of the ZI and surrounding regions across a diverse range of brain functions and as a candidate target for neuromodulatory therapies. Using in vivo diffusion magnetic resonance imaging and data-driven connectivity, we identify a topographic organization between the ZI a…
+N-glycosylation generates substantial molecular diversity, yet how glycan composition varies throughout aging remains poorly understood. We mapped the N-glycoproteome of brain, liver, spleen, kidney, and plasma across nine ages spanning the mouse lifespan, identifying 80,618 unique N-glycopeptides at 9,211 glycosites on 4,391 glycoproteins, together with matched proteomic trajectories (glycoproteinatlas.org). Organ identity was the dominant determinant of glycan composition, but numerous glycosi…
 
 </details>
 
 ---
 
-## [Cellular and mitochondrial correlates of regional glucose metabolism in the human cortex](https://www.biorxiv.org/content/10.64898/2026.10.22.760701v1?rss=1)
+## [Molecular MRI of Neuroinflammation in Alzheimer's Disease using a Folate-targeted Nanoprobe](https://www.biorxiv.org/content/10.64898/2026.10.27.761963v1?rss=1)
 *bioRxiv*  
-Score: **0.50**  
-Published: 2026-10-25T00:00:00+00:00
-Tags: MRI, neuroimaging, brain age
+Score: **0.75**  
+Published: 2026-11-01T00:00:00+00:00
+Tags: MRI, neuroinflammation, Alzheimer's Disease
 
-This study uses imaging techniques to correlate cellular composition with glucose metabolism, valuable for understanding energy demands in brain aging.
+This study uses advanced imaging methods which could contribute to computational neuroimaging models related to aging.
 
 <details>
 <summary>RSS summary</summary>
 
-Regional differences in human brain glucose metabolism reflect local energy demands, but their cellular and mitochondrial determinants remain unclear. We combined [18F]FDG positron emission tomography in healthy human participants with estimates of cellular composition and mitochondrial density to unravel (sub)cellular correlates of heterogeneity in brain glucose metabolism. By correcting for RNA content and differential gene expression due to postmortem sampling, we addressed methodological sho…
+Background: Neuroinflammation, driven by activated microglia, plays a central role in the pathogenesis of Alzheimer's disease (AD). Non-invasive imaging of neuroinflammation holds promise for advancing our understanding of disease mechanisms and evaluating anti-inflammatory therapeutic strategies. The folate receptor (FR), specifically its {beta} isoform, has been identified as a marker of pro-inflammatory myeloid cells in peripheral inflammatory diseases; however, its association with AD neuroi…
+
+</details>
+
+---
+
+## [Deep and quantitative proteomic profiling of low-volume mouse serum in a cross-sectional analysis of aging](https://www.nature.com/articles/s43587-026-01242-8)
+*Nature Aging*  
+Score: **0.40**  
+Published: 2026-11-02T00:00:00+00:00
+Tags: aging, proteomics
+
+Despite lacking direct brain age modeling, the focus on aging biomarkers is worth noting for potential relevance.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Aging, Published online: 02 November 2026; <a href="https://www.nature.com/articles/s43587-026-01242-8">doi:10.1038/s43587-026-01242-8</a></p>To address the technically challenging task of profiling the age-associated blood proteome in sample-limited mouse studies, the authors present a quantitative nanoparticle-based enrichment workflow coupled with data-independent acquisition mass spectrometry to identify key age-associated circulating proteins with relevance to human health.
 
 </details>
 
